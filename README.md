@@ -1,4 +1,4 @@
-# Olá 👋 Eu sou o Igor Aldivan
+ Olá 👋 Eu sou o Igor Aldivan
 
 🎓 Estudante de Sistemas para Internet – 4º semestre  
 💻 Desenvolvedor Web em formação  
@@ -31,5 +31,5 @@
 
 ## 📫 Contato
 
-- LinkedIn: [Seu LinkedIn]
+- LinkedIn: https://linkedin.com/in/igor-aldivansl
 - Email: igoraldivansl@gmail.com
